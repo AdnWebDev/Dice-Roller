@@ -1,7 +1,3 @@
-// const div = document.getElementById("result");
-// const img = document.createElement("img");
-// img.src ="dices/five.png";
-// div.appendChild(img);
 
 
 function DiceRoll(){
@@ -50,4 +46,5 @@ function DiceRoll(){
                 break;
         }
     }
+
 }
